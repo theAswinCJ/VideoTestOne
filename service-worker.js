@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VideoTestOne/precache-manifest.3b9b9169875dea823d040cce047b358b.js"
+  "/VideoTestOne/precache-manifest.8cb0bdb5b4c4c5c330db98b24b3a6d82.js"
 );
 
 self.addEventListener('message', (event) => {
