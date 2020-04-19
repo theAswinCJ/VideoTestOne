@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/VideoTestOne/static/css/main.5f361e03.chunk.css",
+    "main.js": "/VideoTestOne/static/js/main.4a04762b.chunk.js",
+    "main.js.map": "/VideoTestOne/static/js/main.4a04762b.chunk.js.map",
+    "runtime-main.js": "/VideoTestOne/static/js/runtime-main.1c67c1e3.js",
+    "runtime-main.js.map": "/VideoTestOne/static/js/runtime-main.1c67c1e3.js.map",
+    "static/js/2.961a2c11.chunk.js": "/VideoTestOne/static/js/2.961a2c11.chunk.js",
+    "static/js/2.961a2c11.chunk.js.map": "/VideoTestOne/static/js/2.961a2c11.chunk.js.map",
+    "index.html": "/VideoTestOne/index.html",
+    "precache-manifest.3b9b9169875dea823d040cce047b358b.js": "/VideoTestOne/precache-manifest.3b9b9169875dea823d040cce047b358b.js",
+    "service-worker.js": "/VideoTestOne/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/VideoTestOne/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.961a2c11.chunk.js.LICENSE.txt": "/VideoTestOne/static/js/2.961a2c11.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/VideoTestOne/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c67c1e3.js",
+    "static/js/2.961a2c11.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4a04762b.chunk.js"
+  ]
+}
